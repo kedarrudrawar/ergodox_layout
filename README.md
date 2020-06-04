@@ -1,4 +1,2 @@
-# ergodox_layout
+# Ergodox Layout
 Layout of my custom ergodox-ez keyboard
-
-Graphical configurator: https://configure.ergodox-ez.com/ergodox-ez/layouts/RlPR4/latest/0
